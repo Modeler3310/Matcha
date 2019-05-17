@@ -1,0 +1,20 @@
+@font-face {
+    font-family: CaviarDreamsNormal;
+    src: url(../font/CaviarDreams.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: CaviarDreamsBold;
+    src: url(../font/CaviarDreams.ttf);
+    font-weight: bold;
+}
+@font-face {
+    font-family: LouisGeorgeCafe;
+    src: url(../font/Louis\ George\ Cafe.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: CaviarDreamsBold;
+    src: url(../font/Louis\ George\ Cafe\ Bold.ttf);
+    font-weight: bold;
+}
